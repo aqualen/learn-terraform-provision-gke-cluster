@@ -1,2 +1,2 @@
-project_id = "yummy-plants"
+project_id = "yummy-plants-001"
 region     = "us-west1"
