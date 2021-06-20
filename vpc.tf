@@ -1,9 +1,9 @@
 variable "project_id" {
-  description = "project id"
+  description = "yummy-plants-001"
 }
 
 variable "region" {
-  description = "region"
+  description = "us-west1"
 }
 
 provider "google" {
